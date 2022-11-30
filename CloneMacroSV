@@ -1,0 +1,51 @@
+Need Koraidon copy in second position + make sure boxes is set to Box 1.
+
+LOOP 1
+    X 0.1S
+    LOOP 3
+        0.1S
+        DPAD_LEFT 0.1S
+        0.1S
+    DPAD_LEFT 0.1S
+    0.1S
+    L_STICK@+000+100 2S
+    DPAD_DOWN 0.1S
+    A 0.1S
+    0.2S
+    LOOP 2
+        DPAD_UP 0.1S
+        0.1S
+    LOOP 4
+        A 0.1S
+        1.0S
+    3.0S
+    A 0.1S
+    LOOP 3
+        DPAD_DOWN 0.1S
+        0.5S
+    0.1S
+    DPAD_RIGHT 0.1S
+    0.1S
+    A 0.1S
+    2.0S
+    LOOP 2
+        X 0.1S
+        0.8S
+    1.0S
+    L 0.1S
+    0.1S
+    A 0.1S
+    0.8S
+    LOOP 3
+        DPAD_DOWN 0.1S
+        0.5S
+    A 0.1S
+    0.1S
+    1.0S
+    B 0.1S
+    0.7S
+    LOOP 2
+        DPAD_LEFT 0.1S
+        0.2S
+    X 0.1S
+    2.0S
