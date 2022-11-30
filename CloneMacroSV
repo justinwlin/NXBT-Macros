@@ -1,6 +1,6 @@
 Need Koraidon copy in second position + make sure boxes is set to Box 1.
 
-LOOP 1
+LOOP 10
     0.1S
     X 0.1S
     1.0S
@@ -29,20 +29,20 @@ LOOP 1
     DPAD_RIGHT 0.1S
     0.1S
     A 0.1S
-    2.0S
+    3.0S
     LOOP 2
         X 0.1S
         0.8S
     1.0S
     L 0.1S
-    0.1S
+    0.2S
     A 0.1S
     0.8S
     LOOP 3
         DPAD_DOWN 0.1S
         0.5S
     A 0.1S
-    0.1S
+    0.2S
     1.0S
     B 0.1S
     0.7S
@@ -51,3 +51,6 @@ LOOP 1
         0.2S
     X 0.1S
     2.0S
+    B 0.1S
+    0.1S
+    B 0.1S
