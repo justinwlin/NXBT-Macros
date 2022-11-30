@@ -1,7 +1,9 @@
 Need Koraidon copy in second position + make sure boxes is set to Box 1.
 
 LOOP 1
+    0.1S
     X 0.1S
+    1.0S
     LOOP 3
         0.1S
         DPAD_LEFT 0.1S
